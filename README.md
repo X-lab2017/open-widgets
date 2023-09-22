@@ -1,0 +1,2 @@
+# Open Widgets
+[Open Widgets](https://github.com/X-lab2017/open-widgets) is a project that aims at providing a variety of markdown widgets (images) for open source project READMEs and developer profiles. This initiative is powered by [OpenDigger](https://github.com/X-lab2017/open-digger), a project measures the open source world and provides valuable public data insights.
